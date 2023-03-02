@@ -1,4 +1,8 @@
 Ligne 1
 Ligne 2
+<<<<<<< HEAD
 Ligne 4 
 Ligne 3
+=======
+Ligne 4 
+>>>>>>> MaBranche
